@@ -1,2 +1,2 @@
 # Hangman
-This Game build Using Python
+Experience the excitement of word-guessing with this Hangman game coded in Python! Sharpen your linguistic prowess as you unravel the mystery word, one letter at a time. This Python-based open-source project provides a hands-on opportunity to delve into game development. Clone the repository, run the code, and immerse yourself in a battle of wits. Challenge friends, showcase your word skills, and enjoy the timeless thrill of Hangman!
