@@ -66,10 +66,6 @@ Hangman/
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Gameplay
 
-*(You already have screenshots. Ensure they are correctly linked below)*
-
-![Gameplay Screenshot](./Screenshot%20(34).png)
-
-![Win/Loss Screen](./Screenshot%20(35).png)
+https://github.com/user-attachments/assets/567257c1-03d1-41f5-b137-bfaea98668a0
